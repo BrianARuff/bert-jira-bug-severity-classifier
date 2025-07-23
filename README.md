@@ -19,7 +19,7 @@
 }
 ```
 
-### Other endpoints
+### Feedback API
 
 1. URL: `http://localhost:5000/feedback`
 2. Request Body:
