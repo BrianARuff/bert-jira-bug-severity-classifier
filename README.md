@@ -2,6 +2,7 @@
 
 ## Setup Steps
 
+`python -m pip install -r requirements.txt` - install all dependencies
 `cd ./src` - change directories into code source folder
 `python dataset.py` - generate model's training data
 `python classifier.py` - train model on training data
