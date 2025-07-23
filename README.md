@@ -2,11 +2,11 @@
 
 ## Setup Steps
 
-`python -m pip install -r requirements.txt` - install all dependencies
-`cd ./src` - change directories into code source folder
-`python dataset.py` - generate model's training data
-`python classifier.py` - train model on training data
-`python api.py` - run application's API.
+1. `python -m pip install -r requirements.txt` - install all dependencies
+2. `cd ./src` - change directories into code source folder
+3. `python dataset.py` - generate model's training data
+4. `python classifier.py` - train model on training data
+5. `python api.py` - run application's API.
 
 ### Predict API
 
